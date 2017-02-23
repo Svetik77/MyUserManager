@@ -7,7 +7,7 @@
   body {
 	/* background-image: url("img/pavlin.jpg"); */
 	/* background-repeat: no-repeat; */
-	background-color: #8A2BE2; /*violet*/
+	background-color: #CC66FF; /*violet*/
 }
   </style>
 </head>
@@ -24,7 +24,7 @@
 <br>
 <br>
 
-<div style="text-align:center"><a href="<c:url value="userspage?page=1"/>"><img src="img/pushme.png"></a></div>
+<div style="text-align:center"><a href="<c:url value="userspage?page=1"/>"><img src="img/push.png"></a></div>
 
 </body>
 </html>
