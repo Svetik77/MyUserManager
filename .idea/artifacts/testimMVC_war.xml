@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="war" name="testimMVC:war">
-    <output-path>$PROJECT_DIR$/target</output-path>
-    <root id="archive" name="UserManger.war">
-      <element id="artifact" artifact-name="testimMVC:war exploded" />
-    </root>
-  </artifact>
-</component>
